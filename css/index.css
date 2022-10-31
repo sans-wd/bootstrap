@@ -1,0 +1,222 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+}
+
+
+.ss_navbar{
+    width: 100%;
+    min-height:70px;
+    background: red;
+    float: left;
+    /* margin-bottom:15px ; */
+}
+
+.ssNav{
+    width: 100%;
+    min-height: 400px;
+    background: green;
+    float: left;
+    margin-top: 4%;
+}
+
+.ssArticle{
+    width: 98%;
+    min-height: 400px;
+    background: blue;
+    float: left;
+    margin: 0 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.ssAds{
+    width: 100%;
+    min-height: 400px;
+    background: purple;
+    float: left;
+    margin-top: 4%;
+}
+
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 601px) {
+    body{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    
+    
+    .ss_navbar{
+        width: 100%;
+        min-height:70px;
+        background: red;
+        float: left;
+        /* margin-bottom:15px ; */
+    }
+    
+    .ssNav{
+        width: 100%;
+        min-height: 400px;
+        background: green;
+        float: left;
+        margin-top: 4%;
+    }
+    
+    .ssArticle{
+        width: 94%;
+        min-height: 400px;
+        background: blue;
+        float: left;
+        margin: 0 3%;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+    
+    .ssAds{
+        width: 100%;
+        min-height: 400px;
+        background: purple;
+        float: left;
+        margin-top: 4%;
+    }
+
+}
+
+@media only screen and (min-width: 993px) {
+    body{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    
+    
+    .ss_navbar{
+        width: 100%;
+        min-height:70px;
+        background: red;
+        float: left;
+    }
+    
+    .ssNav{
+        width: 100%;
+        min-height: 400px;
+        background: green;
+        float: left;
+        margin-top: 4%;
+    }
+    
+    .ssArticle{
+        width: 98%;
+        min-height: 400px;
+        background: blueviolet;
+        float: left;
+        margin: 0 1%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    .ssAds{
+        width: 100%;
+        min-height: 400px;
+        background: purple;
+        float: left;
+        margin-top: 4%;
+    }
+
+
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1300px) {
+    body{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    
+    
+    .ss_navbar{
+        width: 100%;
+        min-height:70px;
+        background: red;
+        float: left;
+        /* margin-bottom:15px ; */
+    }
+    
+    .ssNav{
+        width: 100%;
+        min-height: 400px;
+        background: green;
+        float: left;
+        margin-top: 4%;
+    }
+    
+    .ssArticle{
+        width: 98%;
+        min-height: 400px;
+        background: blueviolet;
+        float: left;
+        margin: 0 1%;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    .ssAds{
+        width: 100%;
+        min-height: 400px;
+        background: purple;
+        float: left;
+        margin-top: 4%;
+    }
+
+    
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 767px) {
+    body{
+        margin: 0 auto;
+        padding: 0px;
+    }
+    
+    
+    .ss_navbar{
+        width: 100%;
+        min-height:100px;
+        background: brown;
+        float: left;
+    }
+
+    .ssNav{
+        width: 100%;
+        min-height: 200px;
+        background: paleturquoise;
+        float: left;
+        margin-top: 15px;
+    }
+    
+    .ssArticle{
+        width: 100%;
+        min-height: 200px;
+        background: blue;
+        float: left;
+        margin: 15px 0px 0px 0px;
+        
+    }
+    
+    .ssAds{
+        width: 100%;
+        min-height: 200px;
+        background: purple;
+        float: left;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+
+}
+
+
+
